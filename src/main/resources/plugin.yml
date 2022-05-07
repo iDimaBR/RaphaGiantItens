@@ -1,0 +1,6 @@
+name: RaphaGiantItens
+version: '${project.version}'
+main: com.github.idimabr.raphagiantitens.RaphaGiantItens
+authors: [ iDimaBR ]
+commands:
+  giantitem:
